@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "enmap": "^5.8.4",
+    "lastfm": "^0.9.3"
+  }
+}

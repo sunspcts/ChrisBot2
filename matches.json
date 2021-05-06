@@ -1,0 +1,34 @@
+{
+    "exactmatches" : 
+    [
+        "delete server", 
+        "please tone down", 
+        "ave rights", 
+        "trans rights", 
+        "max",
+        "test"
+    ],
+    "exactmatchesresponses" : 
+    [
+        "No!", 
+        "the weirdness guys", 
+        "No way!", 
+        "Trans Rights!", 
+        "Ship Marx!",
+        "test"
+    ],
+    "othermatches" : 
+    [   
+        "havery", 
+        "gebii", 
+        "averannah", 
+        "sawahannah"
+    ],
+    "othermatchesresponses" : 
+    [
+        "ChrisBot officially ships Havery! (Action/Caw when)", 
+        "gebii > havery", 
+        "god that ship name fucking sucks", 
+        "god that ship name's even worse than averannah"
+    ]
+}
